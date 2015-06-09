@@ -1,0 +1,31 @@
+/* Estilos que modifican la plantilla y van en todas */
+
+.top-bar {
+	background-color: #111;
+}
+.main-header__title {
+	border-right: 0;
+}
+.main-header__breadcrumb {
+	border-left: 1px solid #E6E6E6;
+}
+.wrapper {
+	min-height: 900px;
+}
+.main-header {
+	padding-bottom: 20px;
+	border-bottom: 1px solid #e6e6e6;
+	margin-bottom: 20px;
+}
+.login {
+	background-color: #111;
+}
+.login-page {
+	background: transparent;
+}
+.bg--dark {
+    background-color: #111;
+}
+.login-page .form-control {
+	background-color: #111;
+}
